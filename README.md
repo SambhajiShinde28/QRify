@@ -1,4 +1,4 @@
-# QRify - Code Generating Web App
+# QRify - QR/BAR Code Generating Web App
 
 QRify is a web application designed to generate, save, and manage different types of QR codes and barcodes. It provides a user-friendly interface to create codes for various purposes, such as encoding URLs, text, geolocations, events, and more. The app supports multiple barcode formats and offers options to download and save the generated codes for further use.
 
