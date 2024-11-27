@@ -33,8 +33,8 @@ QRify is a web application designed to generate, save, and manage different type
   <img src="https://drive.google.com/uc?export=view&id=1v28DY2GJi2Ru1U-f8PewQsLFrPwYA8zB" alt="img" width="310" style="margin: 5px;">
 </p>
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1QDPNOZQ5yv6IaGPpsAQiieI23dDehvDE" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1IP4Evjjb1LA2GFzx5a4I4TRRqTQTgPyf" alt="img" width="100" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1QDPNOZQ5yv6IaGPpsAQiieI23dDehvDE" alt="img" width="166" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1IP4Evjjb1LA2GFzx5a4I4TRRqTQTgPyf" alt="img" width="310" style="margin: 5px;">
 </p>
 
 
